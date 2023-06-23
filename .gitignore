@@ -1,0 +1,4 @@
+#git ignores these files while making push
+
+Sensor Locations Directory - Internal (1).xlsx
+secrets.json
