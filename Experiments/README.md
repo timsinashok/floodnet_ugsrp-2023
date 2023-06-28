@@ -1,2 +1,2 @@
 # Experiments for Sensor Validation and Critical angle
-This folder has scripts which were used for experimets to validate the accuracy of the sensor and to get the critical angle associated with sensors. 
+This folder has scripts which were used for experimets to validate the accuracy of the sensor and to get the critical angle associated with sensors. There
