@@ -1,2 +1,2 @@
 # Experiments for Sensor Validation and Critical angle
-This folder has scripts which were used for experimets to validate the accuracy of the sensor and to get the critical angle associated with sensors. There
+This folder has scripts which were used for experimets to validate the accuracy and consistency of the Maxbotics Ultrasonc sensor. The folder also has scripts for critical angle associated with sensors. 
