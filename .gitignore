@@ -3,5 +3,5 @@
 Sensor Locations Directory - Internal - street sensors (live).csv
 secrets.json
 gateway_list.csv
-/.DS_Store
-.ipynb_checkpoints/
+.ipynb_checkpoints
+**/.DS_Store
