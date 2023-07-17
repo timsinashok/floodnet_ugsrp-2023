@@ -13,3 +13,13 @@ Here are relevant links to the project:
 
 
 [Floodnet Project Description](https://climate.cityofnewyork.us/initiatives/floodnet/)
+
+# Requirements
+To run this repository, one would need following libraries:
+> influxdb_client : To retrive data
+> pandas
+> matplotlib
+> seaborn
+> numpy
+
+** Additionally you need to run the notebook data_loader first to store the data.
