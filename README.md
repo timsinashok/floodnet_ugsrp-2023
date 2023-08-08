@@ -15,18 +15,23 @@ Here are relevant links to the project:
 
 # Requirements
 To run this repository, one would need the following libraries:
-> influxdb_client: To retrieve data
+- influxdb_client
+- pandas
+- matplotlib
+- seaborn
+- NumPy
 
-> pandas
+Note: The notebook in this repo relies on the data stored in jupyter cache and to store the data  you need to run the notebook data_loader first before running other notebooks.
 
-> matplotlib
+## View the project
 
-> seaborn
+Here is the Poster created for the project :
 
-> numpy
+![](http://url/to/img.png)
 
-** Additionally you need to run the notebook data_loader first to store the data.
 
----
+Here is the video created for the project.
 
-[Here is the video for the project.](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina) 
+[![Watch the video](https://i9.ytimg.com/vi/DMD-5mNnkGU/sddefault.jpg?v=64c860fc&sqp=CPD7yaYG&rs=AOn4CLBdYXCVrrQSsNHD8ku92gOmjcIIVw)](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina)
+
+
