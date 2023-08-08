@@ -27,7 +27,7 @@ Note: The notebook in this repo relies on the data stored in jupyter cache and t
 
 Here is the Poster created for the project :
 
-![](http://url/to/img.png)
+![](https://github.com/timsinashok/floodnet_ugsrp-2023/blob/main/images/Floodnet_23_summer_poster.pptx.jpg)
 
 
 Here is the video created for the project.
