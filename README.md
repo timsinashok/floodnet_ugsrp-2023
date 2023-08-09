@@ -25,13 +25,15 @@ Note: The notebook in this repo relies on the data stored in jupyter cache and t
 
 ## View the project
 
-Here is the Poster created for the project :
-
-![](http://url/to/img.png)
-
-
 Here is the video created for the project.
 
 [![Watch the video](https://i9.ytimg.com/vi/DMD-5mNnkGU/sddefault.jpg?v=64c860fc&sqp=CPD7yaYG&rs=AOn4CLBdYXCVrrQSsNHD8ku92gOmjcIIVw)](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina)
+
+And here is the poster :
+
+![](https://github.com/timsinashok/floodnet_ugsrp-2023/blob/main/images/Floodnet_23_summer_poster.pptx.jpg)
+
+
+
 
 
