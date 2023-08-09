@@ -27,7 +27,7 @@ Note: The notebook in this repo relies on the data stored in jupyter cache and t
 
 Here is the video created for the project.
 
-[![Watch the video](https://i9.ytimg.com/vi/DMD-5mNnkGU/sddefault.jpg?v=64c860fc&sqp=CPD7yaYG&rs=AOn4CLBdYXCVrrQSsNHD8ku92gOmjcIIVw)](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina)
+[![Watch the video](https://github.com/timsinashok/floodnet_ugsrp-2023/blob/main/images/floodnet.png)](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina)
 
 And here is the poster :
 
