@@ -25,11 +25,13 @@ Note: The notebook in this repo relies on the data stored in jupyter cache and t
 
 ## View the project
 
-Here is the video created for the project. This video won 2nd place in Best Pitch category. 
+Here is the video created for the project. This video won 2nd place in the Best Pitch category. 
+<p>
+<a href="https://www.youtube.com/embed/tgbNymZ7vqY">
+<img src="https://raw.githubusercontent.com/timsinashok/floodnet_ugsrp-2023/main/images/floodnet.png" style="width:400px; height:300px:">
+</a>
+</p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
 
 And here is the poster :
 
