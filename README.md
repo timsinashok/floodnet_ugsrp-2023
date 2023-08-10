@@ -25,9 +25,11 @@ Note: The notebook in this repo relies on the data stored in jupyter cache and t
 
 ## View the project
 
-Here is the video created for the project.
+Here is the video created for the project. This video won 2nd place in Best Pitch category. 
 
-[![Watch the video](https://i9.ytimg.com/vi/DMD-5mNnkGU/sddefault.jpg?v=64c860fc&sqp=CPD7yaYG&rs=AOn4CLBdYXCVrrQSsNHD8ku92gOmjcIIVw)](https://www.youtube.com/watch?v=DMD-5mNnkGU&ab_channel=AshokTimsina)
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 And here is the poster :
 
